@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="add_city_name">Add City Name</string>
+<string name="app_name">HttpRetrofitDemo</string>
+<string name="city_empty">City empty</string>
+<string name="save">save</string>
+<string name="delete_all">delete all</string>
+<string name="no_city">no city</string>
+<string name="weather">%1$s Weather</string>
+<string name="temperature">Temperature: %1$s</string>
+</resources>
